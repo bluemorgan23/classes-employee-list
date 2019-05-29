@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/bin/Debug/netcoreapp2.2/employee-list.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/bin/Debug/netcoreapp2.2/employee-list.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/bin/Debug/netcoreapp2.2/employee-list.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/bin/Debug/netcoreapp2.2/employee-list.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/bin/Debug/netcoreapp2.2/employee-list.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/employee-list/obj/Debug/netcoreapp2.2/employee-list.pdb
